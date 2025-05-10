@@ -83,11 +83,6 @@ Para executar os testes:
 npm run test
 ```
 
-Para verificar a cobertura de testes:
-```bash
-npm run test:cov
-```
-
 ## Estrutura do Projeto
 
 ```
@@ -99,21 +94,11 @@ src/
 └── app.module.ts       # Módulo raiz
 ```
 
-## Contribuição
-
-Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
-
-1. Faça um fork do projeto.
-2. Crie uma branch para a sua feature (`git checkout -b minha-feature`).
-3. Commit suas alterações (`git commit -m 'Minha nova feature'`).
-4. Envie para o repositório remoto (`git push origin minha-feature`).
-5. Abra um Pull Request.
-
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Feito com ❤ por [Seu Nome](https://github.com/seu-usuario).
+Feito com ❤ por [Rafael](https://github.com/rafaell-dev).
 
